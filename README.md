@@ -1,4 +1,5 @@
 # gfootball-exercises
+[中文](https://github.com/JohnJim0816/gfootball-exercises/blob/master/README.md)|[EN](https://github.com/JohnJim0816/gfootball-exercises/blob/master/README_en.md)
 ## 引言
 首先需要安装[google-footbal环境](https://github.com/google-research/football)
 
